@@ -1,2 +1,9 @@
-Git is a version distributed  control system.
-Git is free software distributed under the GPL.
+《望庐山瀑布》
+       唐 李白
+日照香炉生紫烟，遥看瀑布挂前川。
+飞流直下三千尺，疑是银河落九天。
+
+《送孟浩然之广陵》
+　　唐·李白
+故人西辞黄鹤楼，烟花三月下扬州。
+孤帆远影碧空尽，惟见长江天际流。
